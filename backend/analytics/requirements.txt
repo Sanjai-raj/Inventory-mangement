@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+mysql-connector-python
+statsmodels
+json
+sys
+argparse
